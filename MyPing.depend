@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575883330 source:d:\数据\文件\web\cppprojects\myping\main.cpp
+	<winsock2.h>
+	<stdio.h>
+	<iostream>
+	"ping.h"
+
+1565773107 source:d:\数据\文件\web\cppprojects\myping\ping.cpp
+	"ping.h"
+	<iostream>
+	<stdio.h>
+
+1565756990 d:\数据\文件\web\cppprojects\myping\ping.h
+	<winsock2.h>
+
